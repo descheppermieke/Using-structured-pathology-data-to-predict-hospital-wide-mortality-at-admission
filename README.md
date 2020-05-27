@@ -5,6 +5,7 @@ In this repository you can find the data that belongs to the article:
 Using structured pathology data to predict hospital-wide mortality at admission
 Authors: M. Deschepper, W. Waegeman, D. Vogelaers, K. Eeckloo
 
+The data is one large .Rda dataset which can be loaded in R: `load("DATA_StructuredPathologyToPredictMortality.Rda")`
 
 
 ## Datasets for ICD-10 models
