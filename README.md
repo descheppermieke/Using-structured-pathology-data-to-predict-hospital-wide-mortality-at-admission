@@ -26,7 +26,7 @@ All datasets have the following columns:
 - diagnosisXX: binary variable for the diagnosis XX
 
 
-## Datasets for th RoM models
+## Datasets for RoM models
 
 - ds_rom_admission: dataset with the 4 Risk of Mortality Categories as calculated with the diagnosis known at admission
 - ds_rom_discharge: dataset with the 4 Risk of Mortality Categories as calculated with the diagnosis known at discharge
@@ -42,7 +42,7 @@ All datasets have the following columns:
 
 Every record can only have 1 RoM.
 
-## Datasets for the CCI models
+## Datasets for CCI models
 
 - ds_cci_admission: dataset with the Charlson Comorbidity Score as calculated with the diagnosis known at admission
 - ds_cci_discharge: dataset with the Charlson Comorbidity Score as calculated with the diagnosis known at discharge
